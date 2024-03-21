@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@demoapp.com",
+      "password": "demoapp123",
+      "name": "",
+      "profilePic": ""
+    },
+    {
+      "id": "3825",
+      "empId": "EMP100",
+      "name": "Martin Jacob",
+      "email": "martinjacob2023@it.ajce.in",
+      "status": "1"
+    },
+    {
+      "id": "80d0",
+      "empId": "EMP200",
+      "name": "Mj",
+      "email": "martinmjv3@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "42d4",
+      "empId": "EMP300",
+      "name": "mj",
+      "email": "mj@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "404f",
+      "empId": "EMP400",
+      "name": "achal",
+      "email": "achal123@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "d125",
+      "empId": "EMP500",
+      "name": "achu",
+      "email": "achu123@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "2554",
+      "empId": "EMP600",
+      "name": "jithin",
+      "email": "jithingeorge165@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "5810",
+      "empId": "EMP700",
+      "name": "shaun",
+      "email": "shaun@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "64b3",
+      "empId": "EMP800",
+      "name": "vishnu",
+      "email": "vishnu@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "9177",
+      "empId": "EMP900",
+      "name": "sajan",
+      "email": "sajan@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "b5a1",
+      "empId": "EMP110",
+      "name": "christy",
+      "email": "christy@gmail.com",
+      "status": "0"
+    }
+  ]
+}
